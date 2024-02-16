@@ -1,10 +1,10 @@
 package org.example.seabattle;
 
 import lombok.RequiredArgsConstructor;
-import org.example.seabattle.controller.MultiGameController;
-import org.example.seabattle.controller.SoloGameController;
-import org.example.seabattle.util.ConsoleUtils;
-import org.example.seabattle.util.ScannerSingleton;
+import org.example.seabattle.controllers.MultiGameController;
+import org.example.seabattle.controllers.SoloGameController;
+import org.example.seabattle.utils.ConsoleUtils;
+import org.example.seabattle.utils.ScannerSingleton;
 import org.springframework.stereotype.Component;
 
 import java.util.Scanner;

@@ -1,8 +1,8 @@
 package org.example.seabattle;
 
 import lombok.RequiredArgsConstructor;
-import org.example.seabattle.controller.AdminController;
-import org.example.seabattle.util.ConsoleUtils;
+import org.example.seabattle.controllers.AdminController;
+import org.example.seabattle.utils.ConsoleUtils;
 import org.springframework.stereotype.Component;
 
 import java.util.Scanner;
